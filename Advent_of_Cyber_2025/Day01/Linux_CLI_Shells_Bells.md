@@ -1,6 +1,6 @@
 # Machine : Linux CLI - Shells Bells
 
-# Method of Solve
+# Method of solve
 * Switch the directory by running cd Guides. You will appear at /home/mcskidy/Guides.
 * Run the ls command again to list the content of the guides directory (it will be empty).
 * View the directory again by running `ls -la`. The -a flag shows the hidden files. The `-l` flag shows the additional details, such as file permissions and file owner.
