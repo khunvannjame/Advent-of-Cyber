@@ -1,5 +1,8 @@
 # Machine : Prompt Injection - Sched-yule conflict
 
+# Concept
+* Prompt Injection
+* LLM Hacking
 # Method of solve
 * navigate to the website in the Attackbox
 * click on the chatbot interface in the lower-right corner

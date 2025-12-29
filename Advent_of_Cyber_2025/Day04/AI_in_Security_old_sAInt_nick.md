@@ -1,5 +1,7 @@
 # Machine : AI in Security old sAInt nick
 
+# Concept
+* AI and LLMs in cybersecurity
 # Method of solve
 * open the AttackBox's Firefox browser and navigate to the `http://<MACHINE_IP>` webpage
 ## Q1 - Complete the AI showcase by progressing through all of the stages. What is the flag presented to you?

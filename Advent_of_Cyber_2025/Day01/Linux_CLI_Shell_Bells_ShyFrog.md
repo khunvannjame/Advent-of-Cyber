@@ -1,5 +1,7 @@
 # Machine : Linux_CLI_Shells_Bells
 
+# Concept
+* Linux CLI Basic
 # Method of solve
 ## Q1 - Which CLI command would you use to list a directory?
 The answer is `ls`

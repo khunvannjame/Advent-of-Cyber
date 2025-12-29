@@ -1,5 +1,7 @@
 # Machine : Phishing Merry Clickmas
 
+# Concept
+* Splunk log search
 # Method of solve
 * the first thing we do is click on the green `Search and reporting` button on the top-left corner of the webpage
 * then, in the `New search` field at the top of the page, type in `index=main`

@@ -1,5 +1,7 @@
 # Machine : Network Discovery Scanta Clause
 
+# Concept
+* Network service discovery and interaction
 # Method of solve
 * from the AttackBox, use the following `nmap` command to scan the ports on the remote server:
 ```

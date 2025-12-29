@@ -1,5 +1,7 @@
 # Machine : Phishing Merry Clickmas
 
+# Concept
+* Phishing
 # Method of solve
 * we're going to assume we're working from the AttackBox for this challenge
 * we need to use this command to enter the directory with the script we're going to run:

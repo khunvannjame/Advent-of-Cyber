@@ -1,5 +1,7 @@
 # Machine : Password a Cracking Christmas
 
+# Concept
+* Password cracking
 # Method of solve
 ## Q1 - What is the flag inside the encrypted PDF?
 ```

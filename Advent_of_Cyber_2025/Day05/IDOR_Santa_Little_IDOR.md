@@ -1,5 +1,7 @@
 # Machine : IDOR Santa Little IDOR
 
+# Concept
+* IDOR (insecure direct object reference)
 # Method of solve
 
 - in the AttackBox, start up its Firefox web browser and navigate to the web app associated with the room (a link can be found above the `Your virtual environment has been set up` heading in Task 1)
